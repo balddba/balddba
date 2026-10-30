@@ -15,13 +15,18 @@ Most of what I build starts as a **CLI** or **TUI**. I’m a big fan of **FastAP
 - Tools scratch my own itch first — day-job workflows and homelab experiments — then get cleaned up for others
 - CLI/TUI by default; FastAPI when an API fits; web UIs when I want to play with AI-assisted frontends
 
-## Featured projects
+## Public projects
 
 | Project | Description |
 | --- | --- |
 | [**orafail**](https://github.com/balddba/orafail) | Live TUI that polls Oracle databases for failed logons — useful for spotting brute-force attempts and broken connection scripts in real time. |
 | [**oracle-license-manager**](https://github.com/balddba/oracle-license-manager) | FastAPI + web UI for Oracle license compliance: CSI contracts, CPU core inventory, processor core-factor math, and surplus/shortfall reporting. |
+| [**asm-cleanup**](https://github.com/balddba/asm-cleanup) | Web dashboard to discover Oracle ASM aliases over SSH, review datafile and tempfile inventory, and generate OMF MOVE SQL for review. |
+| [**oraexport**](https://github.com/balddba/oraexport) | FastAPI + React app for scheduled Oracle Data Pump schema and full-target exports, with run history, retention management, and notifications. |
 | [**uvu**](https://github.com/balddba/uvu) · [PyPI](https://pypi.org/project/uvu/) | Small CLI/library to check and update `uv`-managed dependencies, with optional pinning back into `pyproject.toml`. |
+| [**bald-bookmarks**](https://github.com/balddba/bald-bookmarks) | Single-user bookmark manager with nested folders, tags, and page preview thumbnails; supports Oracle, PostgreSQL, MySQL, and SQLite. |
+| [**pioneer-remote**](https://github.com/balddba/pioneer-remote) | FastAPI + React browser remote for Pioneer AV receivers, with power, volume, input controls, and live status updates over Telnet. |
+| [**website-scripts**](https://github.com/balddba/website-scripts) | Database and system administration scripts that sync to the script catalog on balddba.com. |
 
 ## Stack I reach for
 
