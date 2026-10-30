@@ -8,13 +8,6 @@ Most of what I build starts as a **CLI** or **TUI**. I’m a big fan of **FastAP
 
 ---
 
-## Experience & focus
-
-- Nearly two decades as an Oracle DBA — operations, security, compliance, and the glue between systems
-- Prefer Python for automation: scripts that grow into CLIs, TUIs, and small services when they need to
-- Tools scratch my own itch first — day-job workflows and homelab experiments — then get cleaned up for others
-- CLI/TUI by default; FastAPI when an API fits; web UIs when I want to play with AI-assisted frontends
-
 ## Public projects
 
 | Project | Description |
