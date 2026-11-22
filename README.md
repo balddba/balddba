@@ -40,6 +40,10 @@ Most projects start as a **CLI** or **TUI**, with **FastAPI** behind the web too
       <td><a href="https://github.com/balddba/website-scripts"><strong>website-scripts</strong></a></td>
       <td>Database and system administration scripts that sync to the script catalog on balddba.com.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/balddba/orastash"><strong>orastash</strong></a></td>
+      <td>Public repository; no project files or documentation published yet.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -64,6 +68,14 @@ Most projects start as a **CLI** or **TUI**, with **FastAPI** behind the web too
     <tr>
       <td><a href="https://github.com/balddba/pioneer-remote"><strong>pioneer-remote</strong></a></td>
       <td>FastAPI + React browser remote for Pioneer AV receivers, with power, volume, input controls, and live status updates over Telnet.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/balddba/apt-cache-console"><strong>apt-cache-console</strong></a></td>
+      <td>Self-hosted dashboard for monitoring and managing an APT package cache, with Squid cache metrics, request history, and repository mirror controls.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/balddba/antigravity-usage"><strong>antigravity-usage</strong></a></td>
+      <td>Stream Deck plugin that shows remaining Google Antigravity quota, with weekly and five-hour views, reset countdowns, and low-quota warnings.</td>
     </tr>
   </tbody>
 </table>
